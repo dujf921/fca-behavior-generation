@@ -2,7 +2,7 @@
 
 **Version:** FCA 2.0  
 **Date:** 2026-05-21  
-**Repository:** `dujf921/afa-triplex-modulation-architecture`
+**Repository:** `dujf921/fca-behavior-generation`
 
 ---
 
@@ -14,15 +14,21 @@ The model name is changed from:
 
 To:
 
-**Functional Causal Architecture (FCA)**
+**Functional Causal Architecture for Behavior Generation (FCA)**
 
 Chinese:
+
+**行为生成的功能因果架构**
+
+Short Chinese reference:
 
 **功能因果架构**
 
 The prefix **AFA** is removed from the official model name.
 
 The term **Triplex** is removed because the current model is no longer a three-part architecture.
+
+The phrase **for Behavior Generation** is added because FCA is not a generic causal-architecture label. It specifically refers to a model of how human behavior is generated, stabilized, interrupted, or locked.
 
 ---
 
@@ -54,7 +60,7 @@ Chinese:
 
 ## 3. Reason for the Upgrade
 
-The upgrade is necessary for four reasons:
+The upgrade is necessary for five reasons:
 
 1. **Academic clarity**  
    DMN, SN, and CEN/ECN/FPN-related control systems already exist in large-scale brain-network research. FCA should not be presented as a competing anatomical network taxonomy.
@@ -67,6 +73,9 @@ The upgrade is necessary for four reasons:
 
 4. **Modulation correction**  
    Hormonal axes are retained only as secondary modulation biases. They are not independent networks and are not hard one-to-one mappings.
+
+5. **Behavior-generation focus**  
+   FCA 2.0 explicitly defines the model domain as behavior generation, including decision formation, relational dynamics, execution stability, and feedback-based behavioral reinforcement.
 
 ---
 
@@ -158,19 +167,19 @@ It preserves the useful 1.0 distinction between:
 - structured solution generation
 - execution-chain stability
 
-But FCA 2.0 adds the missing entry-control layer and corrects the anatomical/network-level ambiguity.
+But FCA 2.0 adds the missing entry-control layer, corrects the anatomical/network-level ambiguity, and defines the architecture explicitly as a behavior-generation model.
 
 The 1.0 model should be cited only as a historical version.
 
 The current official model name is:
 
-**Functional Causal Architecture (FCA)**
+**Functional Causal Architecture for Behavior Generation (FCA)**
 
 ---
 
 ## 8. Recommended Citation
 
-Functional Causal Architecture (FCA), Jeff, 2026.
+Functional Causal Architecture for Behavior Generation (FCA), Jeff, 2026.
 
 Legacy version:
 
