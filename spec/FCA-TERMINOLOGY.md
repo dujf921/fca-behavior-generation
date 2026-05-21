@@ -1,6 +1,7 @@
-# FCA Terminology Boundary
+# FCA Terminology Boundary for Behavior Generation
 
-**Model:** Functional Causal Architecture (FCA)  
+**Model:** Functional Causal Architecture for Behavior Generation (FCA)  
+**Chinese:** 行为生成的功能因果架构  
 **Version:** 2.0  
 **Status:** Terminology boundary file  
 
@@ -11,7 +12,7 @@
 Official name:
 
 ```text
-Functional Causal Architecture
+Functional Causal Architecture for Behavior Generation
 ```
 
 Official abbreviation:
@@ -23,12 +24,20 @@ FCA
 Chinese name:
 
 ```text
+行为生成的功能因果架构
+```
+
+Short Chinese reference:
+
+```text
 功能因果架构
 ```
 
 The previous name **AFA Triplex Modulation Architecture (AFA-TMA)** is historical only.
 
 Do not use AFA as the official model prefix in FCA 2.0.
+
+Do not define FCA as a generic causal architecture. FCA 2.0 specifically refers to behavior generation.
 
 ---
 
@@ -46,7 +55,7 @@ Chinese:
 入口敏感度 → 叙事模板 → 方案生成 → 执行承重
 ```
 
-This sequence is the minimum causal chain of FCA.
+This sequence is the minimum causal chain of behavior generation in FCA.
 
 Any FCA explanation must preserve the four-system distinction.
 
@@ -256,7 +265,7 @@ These can be treated only as surface descriptions or social-language labels, not
 A valid FCA explanation must use this pattern:
 
 ```text
-observable output
+observable behavioral output
 → foreground-entry pattern
 → template source
 → solution-generation state
@@ -267,7 +276,7 @@ observable output
 Chinese:
 
 ```text
-可观察输出
+可观察行为输出
 → 前台进入模式
 → 模板来源
 → 方案生成状态
@@ -295,4 +304,4 @@ The observed behavior results from a specific FCA chain: input foregrounding, te
 
 ## 12. Citation
 
-Functional Causal Architecture (FCA), Jeff, 2026.
+Functional Causal Architecture for Behavior Generation (FCA), Jeff, 2026.
