@@ -1,6 +1,7 @@
-# FCA Core Specification
+# FCA Core Specification for Behavior Generation
 
-**Model:** Functional Causal Architecture (FCA)  
+**Model:** Functional Causal Architecture for Behavior Generation (FCA)  
+**Chinese:** 行为生成的功能因果架构  
 **Version:** 2.0  
 **Status:** Core specification  
 
@@ -10,7 +11,7 @@
 
 FCA defines a functional causal architecture for behavior generation.
 
-It is designed to model how a human behavioral output is produced through four functional systems:
+It is designed to model how a human behavioral output is produced, stabilized, interrupted, or locked through four functional systems:
 
 ```text
 SN → DMN → FP → ECN
@@ -46,7 +47,7 @@ FCA separates three levels that must not be mixed:
 
 Core rule:
 
-**FCA is a functional-causal model, not an anatomical brain-network taxonomy.**
+**FCA is a functional-causal model for behavior generation, not an anatomical brain-network taxonomy.**
 
 Therefore:
 
@@ -237,7 +238,7 @@ Chinese:
 
 ## 5. Failure Modes
 
-FCA defines four primary failure modes.
+FCA defines four primary failure modes in behavior generation.
 
 | Failure Point | Structural Failure | Observable Output |
 |---|---|---|
@@ -282,7 +283,7 @@ Core rule:
 A valid FCA inference must follow this order:
 
 ```text
-Observed output
+Observed behavioral output
 → failure point
 → system variable
 → causal sequence
@@ -302,7 +303,7 @@ repeated non-completion
 Chinese:
 
 ```text
-可观察输出
+可观察行为输出
 → 断裂点
 → 系统变量
 → 因果链
@@ -329,4 +330,4 @@ The following are invalid FCA explanations:
 
 ## 9. Minimal Citation
 
-Functional Causal Architecture (FCA), Jeff, 2026.
+Functional Causal Architecture for Behavior Generation (FCA), Jeff, 2026.
