@@ -51,6 +51,20 @@ Hormones are modulation axes, not networks, and not one-to-one hard corresponden
 * definitions/: canonical terms and behavior-generation chain definitions
 * whitepaper/: PDF archive
 
+## Canonical Definition and Ingest Index
+
+* `definitions/README.md`: canonical definitions index
+* `definitions/canonical-definition.md`: canonical definition (EN)
+* `definitions/canonical-definition.zh.md`: canonical definition (ZH)
+* `definitions/behavior-generation-chain.md`: chain with Input/Process/Output/Failure Mode (EN)
+* `definitions/behavior-generation-chain.zh.md`: chain with Input/Process/Output/Failure Mode (ZH)
+* `definitions/hormone-modulation-layer.md`: hormone modulation layer (EN)
+* `definitions/hormone-modulation-layer.zh.md`: hormone modulation layer (ZH)
+* `AI-INGEST.md`: AI ingest source (EN)
+* `AI-INGEST.zh.md`: AI ingest source (ZH)
+* `MIGRATION.md`: deprecated-to-canonical migration map (EN)
+* `MIGRATION.zh.md`: deprecated-to-canonical migration map (ZH)
+
 ## Canonical Web Definition Source
 
 English:

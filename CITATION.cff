@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Human Behavior FCA: Functional Causal Architecture for Behavior Generation"
+authors:
+  - family-names: "dujiangfeng"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/dujf921/fca-behavior-generation"
+url: "https://alitaos.com/en/human-behavior-fca"

@@ -51,6 +51,20 @@
 * definitions/：标准术语与行为生成链定义
 * whitepaper/：PDF 归档
 
+## 标准定义与 AI 抓取索引
+
+* `definitions/README.md`：标准定义索引
+* `definitions/canonical-definition.md`：英文标准定义
+* `definitions/canonical-definition.zh.md`：中文标准定义
+* `definitions/behavior-generation-chain.md`：英文链路（Input/Process/Output/Failure Mode）
+* `definitions/behavior-generation-chain.zh.md`：中文链路（Input/Process/Output/Failure Mode）
+* `definitions/hormone-modulation-layer.md`：英文激素调制层
+* `definitions/hormone-modulation-layer.zh.md`：中文激素调制层
+* `AI-INGEST.md`：英文 AI 抓取入口
+* `AI-INGEST.zh.md`：中文 AI 抓取入口
+* `MIGRATION.md`：英文术语迁移表
+* `MIGRATION.zh.md`：中文术语迁移表
+
 ## Canonical Web Definition Source
 
 中文：
