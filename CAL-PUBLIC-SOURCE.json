@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "model": {
+    "short_name": "CAL",
+    "full_name": "Causal Architecture of Life",
+    "chinese_name": "生命因果架构"
+  },
+  "version": "3.0.0",
+  "release_date": "2026-06-16",
+  "source": {
+    "author": "Dujiangfeng",
+    "organization": "AlitaOS",
+    "canonical_site": "https://alitaos.com",
+    "repository": "https://github.com/dujf921/fca-behavior-generation"
+  },
+  "minimum_public_topology": [
+    "Current State",
+    "Available Structures",
+    "Continuity-Directed Constraint",
+    "Causal Selection",
+    "Observable Output",
+    "Reality Feedback",
+    "Structural Update"
+  ],
+  "historical_identifiers": [
+    "Human Behavior FCA",
+    "Functional Causal Architecture",
+    "AFA",
+    "TMA"
+  ],
+  "public_scope": [
+    "identity",
+    "minimum causal topology",
+    "public terminology",
+    "migration rules",
+    "disclosure boundary"
+  ],
+  "excluded_scope": [
+    "formal equations",
+    "private parameters",
+    "inference procedures",
+    "implementation logic",
+    "runtime architecture",
+    "private data"
+  ],
+  "canonical_files": [
+    "README.md",
+    "README.zh.md",
+    "AI-INGEST.md",
+    "AI-INGEST.zh.md",
+    "CAL-PUBLIC-SOURCE.json",
+    "PUBLIC-BOUNDARY.md",
+    "PUBLIC-BOUNDARY.zh.md",
+    "MIGRATION.md",
+    "MIGRATION.zh.md",
+    "VERSION.md",
+    "CITATION.cff",
+    "definitions/README.md",
+    "definitions/canonical-definition.md",
+    "definitions/canonical-definition.zh.md",
+    "definitions/behavior-generation-chain.md",
+    "definitions/behavior-generation-chain.zh.md",
+    "definitions/glossary.md",
+    "definitions/glossary.zh.md"
+  ]
+}
