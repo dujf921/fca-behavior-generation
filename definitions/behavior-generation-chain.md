@@ -1,50 +1,53 @@
-# Behavior Generation Chain | Human Behavior FCA
+# Minimum Public Causal Chain | CAL
 
-Observable Output  
--> Foreground Entry  
--> Historical Template Matching  
--> New Structure Generation  
--> Execution Maintenance  
--> Feedback Update
+Current State  
+→ Available Structures  
+→ Continuity-Directed Constraint  
+→ Causal Selection  
+→ Observable Output  
+→ Reality Feedback  
+→ Structural Update
 
-## 1) Observable Output
+## 1. Current State
 
-- Input: action traces, pauses, repetition, interruption, state-change signals
-- Process: register observable behavior as analysis entry
-- Output: structured observation set for chain tracing
-- Failure Mode: treating output as final cause and skipping chain localization
+The system enters each causal cycle with a current configuration shaped by bodily conditions, prior history, current context, and incoming information.
 
-## 2) Foreground Entry
+This public definition does not specify how the state is measured, encoded, or scored.
 
-- Input: internal and external signals competing for processing priority
-- Process: salience-based foreground selection and priority assignment
-- Output: foreground input queue
-- Failure Mode: threat or relationship signals saturate foreground and compress downstream capacity
+## 2. Available Structures
 
-## 3) Historical Template Matching
+Only historically formed or currently constructible structures that are reachable from the present state can participate in the current cycle.
 
-- Input: foreground queue plus stored templates
-- Process: match and explain current input with historical structures
-- Output: continuity-preserving explanation frame
-- Failure Mode: old-template lock-in absorbs new feedback and blocks update
+This public definition does not disclose structure extraction, representation, retrieval, or matching procedures.
 
-## 4) New Structure Generation
+## 3. Continuity-Directed Constraint
 
-- Input: explanation frame, constraints, unresolved task demands
-- Process: generate new causal paths and action structures beyond stored templates
-- Output: executable new path candidates
-- Failure Mode: analysis loops without producing new structure
+Active conditions impose direction on which reachable structures are more compatible with maintaining the system's continuity.
 
-## 5) Execution Maintenance
+This is a directional causal constraint, not a moral preference, conscious objective, or published quantitative function.
 
-- Input: generated path candidates
-- Process: maintain path under load as sustained action and reality-facing output
-- Output: stable execution sequence
-- Failure Mode: path exists but collapses under repetition load
+## 4. Causal Selection
 
-## 6) Feedback Update
+The interaction of current state, available structures, current information, and continuity-directed constraints resolves into a currently dominant route.
 
-- Input: reality-facing outcomes from execution
-- Process: update next-cycle competition, template weighting, and path choice
-- Output: updated next-cycle generation conditions
-- Failure Mode: feedback is absorbed by old templates and the loop reverts
+Selection here means causal resolution. It does not introduce an independent operator outside the causal chain.
+
+## 5. Observable Output
+
+The dominant route produces observable action, non-action, repetition, interruption, or state transition.
+
+Output is evidence for causal backtracing. It is not the final causal explanation.
+
+## 6. Reality Feedback
+
+The consequences of output return new information to the system and alter the conditions of subsequent cycles.
+
+## 7. Structural Update
+
+Feedback may preserve, weaken, strengthen, connect, or reorganize reachable structures for later cycles.
+
+This public definition does not disclose update equations, weights, trigger conditions, or implementation logic.
+
+## Boundary
+
+This chain is the minimum public topology only. It is not a complete executable CAL model and must not be expanded by guessing undisclosed variables or procedures.
