@@ -49,6 +49,7 @@ Current CAL public definitions are limited to:
 
 - `README.md` / `README.zh.md`
 - `AI-INGEST.md` / `AI-INGEST.zh.md`
+- `CAL-PUBLIC-SOURCE.json`
 - `PUBLIC-BOUNDARY.md` / `PUBLIC-BOUNDARY.zh.md`
 - `MIGRATION.md` / `MIGRATION.zh.md`
 - `VERSION.md`
@@ -59,6 +60,10 @@ Current CAL public definitions are limited to:
 - `definitions/glossary.md` / `definitions/glossary.zh.md`
 
 All non-whitelisted files are historical or non-canonical unless a current whitelist file explicitly states otherwise.
+
+## Machine-Readable Manifest
+
+`CAL-PUBLIC-SOURCE.json` is the canonical machine-readable manifest for safe identity, version, minimum topology, scope, exclusions, and file discovery.
 
 ## Historical Terms
 
