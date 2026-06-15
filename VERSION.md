@@ -20,7 +20,8 @@ It includes:
 - minimum public causal topology;
 - public glossary and interpretation rules;
 - FCA-to-CAL migration rules;
-- public disclosure boundary and AI-ingest whitelist.
+- public disclosure boundary and AI-ingest whitelist;
+- machine-readable public-source manifest: `CAL-PUBLIC-SOURCE.json`.
 
 It excludes the protected theory layer and executable Runtime layer.
 
@@ -33,5 +34,6 @@ The repository slug `fca-behavior-generation` is retained temporarily for histor
 
 ## Canonical Sources
 
+- Machine-readable manifest: `CAL-PUBLIC-SOURCE.json`
 - Repository: https://github.com/dujf921/fca-behavior-generation
 - Project site: https://alitaos.com
