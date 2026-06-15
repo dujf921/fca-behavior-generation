@@ -1,23 +1,17 @@
-# Hormone Modulation Layer | Human Behavior FCA
+# Historical Notice | Hormone Modulation Layer
 
-Hormones in Human Behavior FCA are modulation axes, not networks, and not one-to-one mappings to SN/DMN/FP/ECN.
+This file is retained only to prevent broken historical links.
 
-They modulate foreground competition probability, template weighting, generation stability, and maintenance stability.
+The former Human Behavior FCA hormone-modulation formulation is **not** a canonical CAL definition module.
 
-## Cortisol
+CAL does not publish a fixed one-to-one mapping among behavior, brain networks, hormones, or named functional systems in this public repository.
 
-- Increases SN threat-related foreground sensitivity
-- Increases DMN threat-template weighting
-- Compresses available functional space for FP and ECN under sustained high-threat conditions
+Any neurobiological implementation, modulation relationship, quantitative model, or inference procedure belongs to protected research or Runtime layers unless explicitly promoted through the current CAL canonical whitelist.
 
-## Dopamine
+Use the following current sources instead:
 
-- Increases FP stable-occupancy probability
-- Supports exploration momentum and path-search drive
-- Does not directly generate structure by itself; structure generation still requires FP functional output
-
-## Oxytocin
-
-- Lowers social-threat sensitivity
-- Supports continuity background and trust context
-- Improves ECN maintenance stability in social and relational execution contexts
+- `canonical-definition.md`
+- `behavior-generation-chain.md`
+- `glossary.md`
+- `../AI-INGEST.md`
+- `../PUBLIC-BOUNDARY.md`
