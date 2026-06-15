@@ -1,27 +1,14 @@
-# FCA Chain-Localization Example Library
+# Historical Examples Archive
 
-This directory is a structured example library for FCA chain-breakpoint localization.
+The files formerly stored in this directory were created for the Human Behavior FCA 2.x chain-localization model.
 
-It is not a story collection.
-It is not a psychological labeling collection.
+They are not CAL examples, are not part of the CAL 3.0.0 canonical whitelist, and must not be used to infer the current CAL architecture.
 
-Its purpose is to show how FCA localizes the dominant breakpoint in the behavior generation chain.
+CAL public examples may be added in the future only after separate disclosure review and explicit addition to the canonical whitelist.
 
-## Usage Boundary
+Current public sources:
 
-- Each sample localizes one dominant breakpoint only.
-- Each sample uses the same fixed template sections.
-- Each sample remains short and chain-structural.
-- Samples are not treatment plans and not diagnostic records.
-
-## Sample Entries
-
-- `sn-over-foregrounding.md`
-- `dmn-template-lock-in.md`
-- `fp-generation-failure.md`
-- `ecn-maintenance-collapse.md`
-- `feedback-non-update.md`
-
-## Template
-
-- `examples/_template.md`
+- `../AI-INGEST.md`
+- `../PUBLIC-BOUNDARY.md`
+- `../definitions/canonical-definition.md`
+- `../definitions/behavior-generation-chain.md`
