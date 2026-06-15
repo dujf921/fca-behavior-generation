@@ -1,10 +1,14 @@
 cff-version: 1.2.0
-version: "2.1.0"
-title: "Human Behavior FCA: Functional Causal Architecture for Behavior Generation"
+title: "CAL — Causal Architecture of Life"
+version: "3.0.0"
+date-released: "2026-06-16"
 authors:
-  - family-names: "dujiangfeng"
-license: "CC-BY-4.0"
+  - family-names: "Dujiangfeng"
+abstract: >-
+  CAL — Causal Architecture of Life is a causal framework for describing
+  how living systems generate, stabilize, repeat, interrupt, and update
+  behavior under continuity constraints. This repository contains the
+  canonical public-definition layer only.
 repository-code: "https://github.com/dujf921/fca-behavior-generation"
-url: "https://alitaos.com/en/human-behavior-fca"
-date-released: "2026-05-28"
-message: "If you use Human Behavior FCA, please cite this repository."
+url: "https://alitaos.com"
+message: "When referencing the public CAL definition, cite CAL — Causal Architecture of Life, Dujiangfeng / AlitaOS, version 3.0.0."
