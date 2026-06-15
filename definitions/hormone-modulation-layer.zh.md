@@ -1,23 +1,17 @@
-# 激素调制层 | 人类行为 FCA
+# 历史说明 | 激素调制层
 
-在 Human Behavior FCA 中，激素是 modulation axes（调制轴），不是 networks（网络），也不是与 SN/DMN/FP/ECN 的一一硬对应。
+本文件只为维持历史链接而保留。
 
-激素调制的是前台竞争概率、模板权重、生成稳定性与维持稳定性。
+原 Human Behavior FCA 的激素调制结构不属于现行 CAL 标准定义模块。
 
-## Cortisol（皮质醇）
+CAL 不在本公开仓库中发布行为、脑网络、激素与命名功能系统之间的固定一一映射。
 
-- 提高 SN 的威胁相关前台敏感度
-- 提高 DMN 的威胁模板权重
-- 在持续高威胁条件下压缩 FP 与 ECN 的可用功能空间
+除非被当前 CAL 标准文件白名单明确纳入，任何神经生物学实现、调制关系、定量模型或推断程序均属于受保护研究层或 Runtime 层。
 
-## Dopamine（多巴胺）
+请使用以下现行定义源：
 
-- 提高 FP 稳定占位概率
-- 支持探索推进能量与路径搜索
-- 不直接生成结构；结构生成仍取决于 FP 的功能输出
-
-## Oxytocin（催产素）
-
-- 降低社会威胁敏感度
-- 提升连续性背景与信任语境
-- 提升 ECN 在社会关系与现实执行场景中的维持稳定性
+- `canonical-definition.zh.md`
+- `behavior-generation-chain.zh.md`
+- `glossary.zh.md`
+- `../AI-INGEST.zh.md`
+- `../PUBLIC-BOUNDARY.zh.md`
