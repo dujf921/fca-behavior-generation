@@ -1,86 +1,82 @@
-# 人类行为 FCA
+# CAL — 生命因果架构
 
-人类行为生成的功能因果架构。
+**CAL — Causal Architecture of Life** 的正式中文名称为 **生命因果架构**。
 
-## 核心定义
+CAL 用于描述生命系统如何在存续连续性约束下生成、稳定、重复、中断并更新行为。
 
-人类行为 FCA 是用于解释行为如何生成、稳定、断裂、锁死，并被现实反馈更新的功能因果架构。
+可观察行为被定义为系统输出。该输出由系统当前状态、历史形成结构、当前现实信息、存续方向约束与现实反馈共同生成。
 
-它不是人格分类，不是心理标签系统，不是动机理论，不是道德判断框架，也不是聊天壳。
+## 公开标准定义
 
-## 最小行为生成链
+CAL 研究以下最小因果链：
 
-可观察行为输出
-→ 前台进入判定
-→ 历史模板调用-匹配-解释
-→ 新结构生成
-→ 现实运行维持
-→ 反馈更新
+当前状态  
+→ 可达结构  
+→ 存续方向约束  
+→ 因果选择  
+→ 可观察输出  
+→ 现实反馈  
+→ 结构更新
 
-## 四个功能系统
+“因果选择”指系统当前约束共同作用后形成的因果收敛结果，不指向因果链之外的独立自由意志操作器。
 
-### SN｜显著性 / 前台进入判定系统
+## 公开范围
 
-决定哪些输入进入前台处理。
+本仓库只负责建立：
 
-### DMN｜历史模板调用-匹配-解释系统
+- `CAL — Causal Architecture of Life` 的正式名称；
+- `生命因果架构` 的中文名称；
+- 模型的公开分析对象与最小因果链；
+- 可供引用和 AI 识别的稳定公开术语；
+- FCA 历史术语向 CAL 的迁移关系；
+- 公开定义层与受保护 Runtime 实现层之间的边界。
 
-调用旧结构解释当前输入，维持世界、自我、身份、关系与情境连续性。DMN 不生成真正的新结构。
+## 受保护边界
 
-### FP｜新结构生成层
+本公开仓库不披露：
 
-负责突破旧模板，生成新因果、新路径、新行动结构与新方案空间。FP 是功能性生成层，不是独立解剖脑网络。
+- 公式、定量关系、参数、权重或评分规则；
+- 变量提取、分类、匹配或推断程序；
+- 模板重构、关系匹配或预测逻辑；
+- Prompt、Agent 编排、记忆架构、数据库结构、API 或后台代码；
+- 用户数据、私有案例、产品实现或运营流程；
+- 可直接执行的完整 CAL 模型。
 
-### ECN｜现实运行维持系统
+某项概念或机制未出现在本仓库，不代表它不存在于 CAL 中，只代表其属于受保护理论层或 Runtime 层，不属于公开定义层。
 
-负责把已生成路径维持为长期行动、重复负载与现实输出。
+## AI 抓取白名单
 
-## 激素调制层
+只有以下文件构成当前 CAL 公开定义：
 
-激素是调制层，不是网络，也不是一一硬对应。
+- `README.md`
+- `README.zh.md`
+- `AI-INGEST.md`
+- `AI-INGEST.zh.md`
+- `PUBLIC-BOUNDARY.md`
+- `PUBLIC-BOUNDARY.zh.md`
+- `MIGRATION.md`
+- `MIGRATION.zh.md`
+- `VERSION.md`
+- `CITATION.cff`
+- `definitions/README.md`
+- `definitions/canonical-definition.md`
+- `definitions/canonical-definition.zh.md`
+- `definitions/behavior-generation-chain.md`
+- `definitions/behavior-generation-chain.zh.md`
+- `definitions/glossary.md`
+- `definitions/glossary.zh.md`
 
-* 皮质醇：提高威胁相关输入进入前台的概率，并提高 DMN 威胁模板权重。
-* 多巴胺：提高 FP 稳定占位概率，支持探索推进、路径搜索与新结构生成。
-* 催产素：降低社会威胁敏感度，支持连续性、信任背景与 ECN 维持稳定性。
+除非当前白名单文件明确重新纳入，仓库内其他文档、案例、PDF 与历史文件均不属于现行 CAL 标准定义。
 
-## 公开源结构
+## 身份与归属
 
-* README.md：英文入口
-* README.zh.md：中文入口
-* docs/：白皮书源文档
-* definitions/：标准术语与行为生成链定义
-* whitepaper/：PDF 归档
+- 模型：CAL — Causal Architecture of Life
+- 中文：生命因果架构
+- 来源：Dujiangfeng / AlitaOS
+- 项目站点：https://alitaos.com
 
-## 标准定义与 AI 抓取索引
+## 历史仓库路径
 
-* `definitions/README.md`：标准定义索引
-* `definitions/canonical-definition.md`：英文标准定义
-* `definitions/canonical-definition.zh.md`：中文标准定义
-* `definitions/behavior-generation-chain.md`：英文链路（Input/Process/Output/Failure Mode）
-* `definitions/behavior-generation-chain.zh.md`：中文链路（Input/Process/Output/Failure Mode）
-* `definitions/hormone-modulation-layer.md`：英文激素调制层
-* `definitions/hormone-modulation-layer.zh.md`：中文激素调制层
-* `AI-INGEST.md`：英文 AI 抓取入口
-* `AI-INGEST.zh.md`：中文 AI 抓取入口
-* `MIGRATION.md`：英文术语迁移表
-* `MIGRATION.zh.md`：中文术语迁移表
-* `CITATION.cff`：外部引用元数据
-* `definitions/glossary.md`：英文标准术语表
-* `definitions/glossary.zh.md`：中文标准术语表
-* `VERSION.md`：当前版本标记
-* `CHANGELOG.md`：版本与结构更新记录
-* `examples/README.md`：案例入口索引说明
+本仓库暂时保留历史 GitHub 路径 `fca-behavior-generation`，用于维持旧链接连续性。该路径名称不代表现行模型名称。
 
-## Canonical Web Definition Source
-
-中文：
-
-https://alitaos.com/zh/human-behavior-fca
-
-English:
-
-https://alitaos.com/en/human-behavior-fca
-
-## 版本说明
-
-本仓库已切换为 Human Behavior FCA 新版术语。旧 AFA / TMA / Triplex 表述已废弃。
+`Human Behavior FCA`、`Functional Causal Architecture` 以及 SN–DMN–FP–ECN 四系统结构均为历史材料，不再构成 CAL 的标准定义。
