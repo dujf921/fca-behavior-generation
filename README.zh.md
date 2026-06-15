@@ -52,6 +52,7 @@ CAL 研究以下最小因果链：
 - `README.zh.md`
 - `AI-INGEST.md`
 - `AI-INGEST.zh.md`
+- `CAL-PUBLIC-SOURCE.json`
 - `PUBLIC-BOUNDARY.md`
 - `PUBLIC-BOUNDARY.zh.md`
 - `MIGRATION.md`
@@ -67,6 +68,10 @@ CAL 研究以下最小因果链：
 - `definitions/glossary.zh.md`
 
 除非当前白名单文件明确重新纳入，仓库内其他文档、案例、PDF 与历史文件均不属于现行 CAL 标准定义。
+
+## 机器可读定义源
+
+`CAL-PUBLIC-SOURCE.json` 提供经过减敏的机器可读身份、版本、最小公开拓扑、范围边界和标准文件清单。
 
 ## 身份与归属
 
