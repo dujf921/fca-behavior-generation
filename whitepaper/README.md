@@ -1,10 +1,9 @@
-# Whitepaper PDF Archive
+# Historical PDF Archive
 
-The `whitepaper/` directory stores versioned PDF archives for Human Behavior FCA public release.
+Any Human Behavior FCA PDF stored in this directory belongs to the 2.x historical model.
 
-Current expected files:
+Historical PDFs are not part of CAL 3.0.0, are excluded from the current canonical whitelist, and must not be treated as definitions of CAL — Causal Architecture of Life.
 
-- `human-behavior-fca-en.pdf`
-- `human-behavior-fca-zh.pdf`
+No CAL whitepaper is currently declared canonical in this directory.
 
-If a target PDF is temporarily unavailable, mark it as: PDF pending.
+A future CAL PDF becomes canonical only when its exact filename and version are explicitly added to the current AI-ingest whitelist after disclosure review.
