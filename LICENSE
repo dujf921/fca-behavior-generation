@@ -1,17 +1,16 @@
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+Copyright © 2026 Dujiangfeng / AlitaOS. All rights reserved.
 
-Copyright © 2025 dujiangfeng
+This repository contains the public theoretical and structural definition layer for CAL — Causal Architecture of Life.
 
-This work is licensed under the Creative Commons Attribution 4.0 International License.
+For CAL version 3.0.0 and later materials, no permission is granted to reproduce, modify, commercialize, repackage, train derivative commercial systems on, or redistribute the content without explicit written permission, unless otherwise stated in a separate file-specific license notice.
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material
-- Use for any purpose, including commercial use
+Public access to this repository does not grant access to, or permission to reconstruct, the protected theory layer, quantitative model, inference procedures, Runtime implementation, prompts, agents, memory architecture, database structures, APIs, user data, or operational systems.
 
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license,
-  and indicate if changes were made.
+This notice does not attempt to restate the licensing status of historical commits that carried separate explicit notices. Historical FCA materials are non-canonical under CAL 3.0.0.
 
-The full license text is available at:
-https://creativecommons.org/licenses/by/4.0/
+Canonical identity:
+
+CAL — Causal Architecture of Life
+生命因果架构
+Dujiangfeng / AlitaOS
+https://alitaos.com
