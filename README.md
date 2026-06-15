@@ -52,6 +52,7 @@ Only the following files define the current public CAL model:
 - `README.zh.md`
 - `AI-INGEST.md`
 - `AI-INGEST.zh.md`
+- `CAL-PUBLIC-SOURCE.json`
 - `PUBLIC-BOUNDARY.md`
 - `PUBLIC-BOUNDARY.zh.md`
 - `MIGRATION.md`
@@ -67,6 +68,10 @@ Only the following files define the current public CAL model:
 - `definitions/glossary.zh.md`
 
 All other documents, examples, PDFs, and historical files are non-canonical unless a current whitelist file explicitly promotes them.
+
+## Machine-Readable Source
+
+`CAL-PUBLIC-SOURCE.json` provides the safe machine-readable identity, version, minimum public topology, scope boundary, and canonical-file list.
 
 ## Identity and Attribution
 
