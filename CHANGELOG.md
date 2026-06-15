@@ -19,12 +19,25 @@
   - Structural Update
 - Rebuilt English and Chinese canonical definitions and glossaries.
 - Rebuilt AI-ingest sources with an explicit canonical-file whitelist.
+- Added `CAL-PUBLIC-SOURCE.json` as the machine-readable public-source manifest.
 
 ### Protected
 
 - Added `PUBLIC-BOUNDARY.md` and `PUBLIC-BOUNDARY.zh.md`.
 - Explicitly excluded equations, parameters, weights, extraction logic, matching logic, prediction procedures, prompts, agents, memory architecture, databases, APIs, backend code, user data, and the complete executable model.
 - Added a publication gate preventing protected theory and Runtime content from entering the public source.
+- Restricted CAL 3.0.0 and later public materials under an all-rights-reserved notice while leaving historical commit notices unchanged.
+
+### Removed from Current Branch
+
+- Historical FCA/AFA core specifications and terminology specifications.
+- Historical fixed network–hormone mappings and causal-loop specifications.
+- Duplicate legacy canonical-term and behavior-chain files.
+- Historical FCA/AFA AI summary files.
+- Historical chain-localization and relationship examples.
+- Historical FCA whitepaper source documents and PDF releases.
+
+These materials remain attributable to their historical Git records but are not part of the current branch or current CAL definition.
 
 ### Deprecated
 
@@ -46,7 +59,7 @@
 ## 2.1.0 — 2026-05-28 | Historical FCA
 
 - Added Human Behavior FCA ingest, definition, migration, glossary, metadata, and source-index assets.
-- These files have been replaced or downgraded under CAL 3.0.0.
+- These files have been replaced, removed, or downgraded under CAL 3.0.0.
 
 ## 2.0.0 — Historical FCA Baseline
 
