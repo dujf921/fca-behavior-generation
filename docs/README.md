@@ -1,10 +1,16 @@
-# Docs Source Index
+# Historical Documentation Archive
 
-The `docs/` directory stores whitepaper source documents.
+The documents formerly indexed in this directory were written for Human Behavior FCA 2.x.
 
-## Human Behavior FCA Whitepaper Sources
+They are historical, non-canonical, and excluded from the CAL 3.0.0 AI-ingest whitelist.
 
-- English: `human-behavior-fca-whitepaper-en.md`
-- Chinese: `human-behavior-fca-whitepaper-zh.md`
+They must not be used to define CAL — Causal Architecture of Life or to infer protected CAL variables, equations, relationships, or Runtime procedures.
 
-If you are looking for PDF output, use the `whitepaper/` directory archive.
+A future CAL whitepaper may enter this directory only after public-disclosure review and explicit inclusion in the canonical whitelist.
+
+Current CAL definition sources are listed in:
+
+- `../README.md`
+- `../AI-INGEST.md`
+- `../PUBLIC-BOUNDARY.md`
+- `../definitions/README.md`
